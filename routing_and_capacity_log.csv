@@ -1,0 +1,49 @@
+row_no,part_id,routing_status,machine_cell,routing_material_grade,machining_status,baseline_cycle_time_min,capacity_ready_date,material_status,inspection_gate_status,machining_blocker,earliest_production_release_date,routing_note
+2,MP-001,Ready,VMC-2,S355JR,Ready,20.2,09/10/2026,Available,FAI Accepted,None,09/10/2026,Routing snapshot for approved machining path.
+3,MP-002,Ready,HMC-1,AISI 304,Ready,22.4,10/10/2026,Available,FAI Accepted,None,10/10/2026,Routing snapshot for approved machining path.
+4,MP-003,Hold,VMC-2,42CrMo4 QT,Hold,29.5,05/11/2026,Material Cert Pending,FAI Hold,ECO-REV-003 not released; material cert not cleared,05/11/2026,Routing log supersedes master readiness.
+5,MP-004,Ready,VMC-1,6082-T6 Al,Ready,25.6,12/10/2026,Available,FAI Accepted,None,12/10/2026,Routing snapshot for approved machining path.
+6,MP-005,Queue Review,VMC-2,17-4PH H1150,Queue Pending,27.8,13/10/2026,Available,FAI Pending,Capacity review pending,13/10/2026,Routing snapshot for approved machining path.
+7,MP-006,Hold,Mill-Turn-1,17-4PH H1150,Hold,31,08/11/2026,Supplier Shortage,FAI Not Started,17-4PH H1150 bar delayed past readiness target,08/11/2026,Supplier material shortage blocks release.
+8,MP-007,Ready,Mill-Turn-1,S355JR,Ready,31.5,15/10/2026,Available,FAI Accepted,None,15/10/2026,Routing snapshot for approved machining path.
+9,MP-008,Ready,VMC-1,AISI 304,Ready,33.2,16/10/2026,Available,FAI Accepted,None,16/10/2026,Routing snapshot for approved machining path.
+10,MP-009,Ready,VMC-2,42CrMo4 QT,Ready,34.2,17/10/2026,Available,FAI Accepted,None,17/10/2026,Routing snapshot for approved machining path.
+11,MP-010,Hold,HMC-1,42CrMo4 QT,Hold,42,12/11/2026,Available,FAI Pending,Signed rev D routing not released until after target,12/11/2026,Signed schedule overrides tracker date.
+12,MP-011,Ready,Mill-Turn-1,17-4PH H1150,Ready,38.6,19/10/2026,Available,FAI Accepted,None,19/10/2026,Routing snapshot for approved machining path.
+13,MP-012,Ready,VMC-1,EN8,Ready,18,20/10/2026,Available,FAI Accepted,None,20/10/2026,Routing snapshot for approved machining path.
+14,MP-013,Ready,VMC-2,S355JR,Ready,20.2,21/10/2026,Available,FAI Accepted,None,21/10/2026,Routing snapshot for approved machining path.
+15,MP-014,Ready,HMC-1,AISI 304,Ready,22.9,22/10/2026,Available,FAI Accepted,None,22/10/2026,Routing snapshot for approved machining path.
+16,MP-015,Queue Review,Mill-Turn-1,42CrMo4 QT,Queue Pending,23.4,23/10/2026,Available,FAI Pending,Capacity review pending,23/10/2026,Routing snapshot for approved machining path.
+17,MP-016,Hold,VMC-1,S355JR,Hold,33.4,15/11/2026,Supplier Queue,FAI Pending,Heat treatment queue and vendor transfer not closed,15/11/2026,Supplier accountability changed by ECA.
+18,MP-017,Ready,VMC-2,17-4PH H1150,Ready,27.8,25/10/2026,Available,FAI Accepted,None,25/10/2026,Routing snapshot for approved machining path.
+19,MP-018,Hold,Mill-Turn-1,17-4PH H1150,Hold,39,04/11/2026,Capacity After Target,FAI Pending,Machine cell slot available after target,04/11/2026,Capacity routing evidence overrides machining-ready claim.
+20,MP-019,Ready,Mill-Turn-1,S355JR,Ready,31,27/10/2026,Available,FAI Accepted,None,27/10/2026,Routing snapshot for approved machining path.
+21,MP-020,Queue Review,VMC-1,AISI 304,Queue Pending,33.2,28/10/2026,Available,FAI Pending,Capacity review pending,28/10/2026,Routing snapshot for approved machining path.
+22,MP-021,Ready,VMC-2,42CrMo4 QT,Ready,34.7,08/10/2026,Available,FAI Accepted,None,08/10/2026,Routing snapshot for approved machining path.
+23,MP-022,Hold,VMC-2,S355JR,Hold,34.8,02/11/2026,Fixture Not Accepted,FAI Pending,Production fixture acceptance after target,02/11/2026,Routing evidence blocks machining readiness.
+24,MP-023,Hold,VMC-1,AISI 304,Hold,,,Evidence Missing,Evidence Missing,Material certificate and power-on equivalent machine acceptance evidence missing,,No defensible production release date.
+25,MP-024,Ready,VMC-1,EN8,Ready,18,11/10/2026,Available,FAI Accepted,None,11/10/2026,Routing snapshot for approved machining path.
+26,MP-025,Queue Review,VMC-2,S355JR,Queue Pending,20.2,12/10/2026,Available,FAI Pending,Capacity review pending,12/10/2026,Routing snapshot for approved machining path.
+27,MP-026,Ready,HMC-1,AISI 304,Ready,22.4,13/10/2026,Available,FAI Accepted,None,13/10/2026,Routing snapshot for approved machining path.
+28,MP-027,Ready,Mill-Turn-1,42CrMo4 QT,Ready,23.4,14/10/2026,Available,FAI Accepted,None,14/10/2026,Routing snapshot for approved machining path.
+29,MP-028,Ready,VMC-1,6082-T6 Al,Ready,26.1,15/10/2026,Available,FAI Accepted,None,15/10/2026,Routing snapshot for approved machining path.
+30,MP-029,Ready,VMC-2,6082-T6 Al,Ready,24.4,28/10/2026,Available,FAI Accepted,No blocker; release date supplied by ECO-GL-029,28/10/2026,Fills blank master release date.
+31,MP-030,Queue Review,HMC-1,EN8,Queue Pending,28.8,17/10/2026,Available,FAI Pending,Capacity review pending,17/10/2026,Routing snapshot for approved machining path.
+32,MP-031,Ready,Mill-Turn-1,S355JR,Ready,31,18/10/2026,Available,FAI Accepted,None,18/10/2026,Routing snapshot for approved machining path.
+33,MP-032,Ready,VMC-1,AISI 304,Ready,33.2,19/10/2026,Available,FAI Accepted,None,19/10/2026,Routing snapshot for approved machining path.
+34,MP-033,Ready,VMC-2,42CrMo4 QT,Ready,34.2,20/10/2026,Available,FAI Accepted,None,20/10/2026,Routing snapshot for approved machining path.
+35,MP-034,Ready,HMC-1,6082-T6 Al,Ready,36.4,21/10/2026,Available,FAI Accepted,None,21/10/2026,Routing snapshot for approved machining path.
+36,MP-035,Queue Review,Mill-Turn-1,17-4PH H1150,Queue Pending,39.1,22/10/2026,Available,FAI Pending,Capacity review pending,22/10/2026,Routing snapshot for approved machining path.
+37,MP-036,Ready,VMC-1,EN8,Ready,18,23/10/2026,Available,FAI Accepted,None,23/10/2026,Routing snapshot for approved machining path.
+38,MP-037,Ready,VMC-2,S355JR,Ready,20.2,24/10/2026,Available,FAI Accepted,None,24/10/2026,Routing snapshot for approved machining path.
+39,MP-038,Ready,HMC-1,AISI 304,Ready,22.4,25/10/2026,Available,FAI Accepted,None,25/10/2026,Routing snapshot for approved machining path.
+40,MP-039,Ready,Mill-Turn-1,42CrMo4 QT,Ready,23.4,26/10/2026,Available,FAI Accepted,None,26/10/2026,Routing snapshot for approved machining path.
+41,MP-040,Queue Review,VMC-1,6082-T6 Al,Queue Pending,25.6,27/10/2026,Available,FAI Pending,Capacity review pending,27/10/2026,Routing snapshot for approved machining path.
+42,MP-041,Ready,VMC-2,17-4PH H1150,Ready,27.8,28/10/2026,Available,FAI Accepted,None,28/10/2026,Routing snapshot for approved machining path.
+43,MP-042,Ready,HMC-1,EN8,Ready,29.3,08/10/2026,Available,FAI Accepted,None,08/10/2026,Routing snapshot for approved machining path.
+44,MP-043,Ready,Mill-Turn-1,S355JR,Ready,31,09/10/2026,Available,FAI Accepted,None,09/10/2026,Routing snapshot for approved machining path.
+45,MP-044,Hold,HMC-1,42CrMo4 QT,Hold,37.2,08/11/2026,Heat Treatment Cert Pending,FAI Hold,Heat-treatment certificate package incomplete,08/11/2026,Supplier material hold.
+46,MP-045,Queue Review,VMC-2,42CrMo4 QT,Queue Pending,34.2,11/10/2026,Available,FAI Pending,Capacity review pending,11/10/2026,Routing snapshot for approved machining path.
+47,MP-046,Ready,HMC-1,6082-T6 Al,Ready,36.4,12/10/2026,Available,FAI Accepted,None,12/10/2026,Routing snapshot for approved machining path.
+48,MP-047,Ready,Mill-Turn-1,17-4PH H1150,Ready,38.6,13/10/2026,Available,FAI Accepted,None,13/10/2026,Routing snapshot for approved machining path.
+49,MP-048,Ready,VMC-1,EN8,Ready,18,14/10/2026,Available,FAI Accepted,None,14/10/2026,Routing snapshot for approved machining path.

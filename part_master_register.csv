@@ -1,0 +1,49 @@
+row_no,part_id,part_name,assembly_group,master_release_status,tracker_release_flag,drawing_revision_master,material_grade_master,accountable_supplier_master,fai_status_master,machining_status_master,planned_release_date,baseline_unit_cost_master_usd,baseline_cycle_time_master_min,master_note
+2,MP-001,Pump skid left bracket,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,CNC North,Accepted,Ready,09/10/2026,80.25,20.2,Master planning snapshot generated before ECO board closeout.
+3,MP-002,Pump skid right bracket,Spacer Stack,Ready for Release,Yes,B,AISI 304,ForgeMax,Accepted,Ready,10/10/2026,88.5,22.4,Master planning snapshot generated before ECO board closeout.
+4,MP-003,Motor riser shim,Guard Panels,Ready for Release,Yes,B,S355JR,CNC North,Accepted,Ready,11/10/2026,96.75,23.4,Tracker frozen before latest authority evidence.
+5,MP-004,Drive-end spacer ring,Mounting Hardware,Pre-release Review,No,A,6082-T6 Al,GuardFab,Accepted,Ready,12/10/2026,105,25.6,Master planning snapshot generated before ECO board closeout.
+6,MP-005,Non-drive-end spacer ring,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,CNC North,Pending,Ready,13/10/2026,90.75,27.8,Master planning snapshot generated before ECO board closeout.
+7,MP-006,Coupling guard side plate,Base Frame,Ready for Release,Yes,C,17-4PH H900,AlloyWorks,Accepted,Ready,14/10/2026,99,28.8,Tracker frozen before latest authority evidence.
+8,MP-007,Pump base gusset,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,AlloyWorks,Accepted,Ready,15/10/2026,107.25,31,Master planning snapshot generated before ECO board closeout.
+9,MP-008,Motor base keeper,Spacer Stack,Pre-release Review,No,B,AISI 304,GuardFab,Accepted,Ready,16/10/2026,115.5,33.2,Master planning snapshot generated before ECO board closeout.
+10,MP-009,Guard hinge block,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,CNC North,Accepted,Ready,17/10/2026,123.75,34.2,Master planning snapshot generated before ECO board closeout.
+11,MP-010,Seal support spacer,Mounting Hardware,Ready for Release,Yes,C,42CrMo4 QT,GuardFab,Accepted,Ready,20/10/2026,80.5,36.4,Tracker frozen before latest authority evidence.
+12,MP-011,Oil tray standoff,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,AlloyWorks,Accepted,Ready,19/10/2026,117.75,38.6,Master planning snapshot generated before ECO board closeout.
+13,MP-012,Pump guard top panel,Base Frame,Pre-release Review,No,C,EN8,GuardFab,Accepted,Queue Pending,20/10/2026,126,18,Master planning snapshot generated before ECO board closeout.
+14,MP-013,Drive guard lower panel,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,CNC North,Accepted,Ready,21/10/2026,134.25,20.2,Master planning snapshot generated before ECO board closeout.
+15,MP-014,Bearing housing spacer,Spacer Stack,Ready for Release,Yes,B,AISI 304,ForgeMax,Accepted,Ready,22/10/2026,142.5,22.4,Master planning snapshot generated before ECO board closeout.
+16,MP-015,Skid lifting lug,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,AlloyWorks,Pending,Ready,23/10/2026,128.25,23.4,Master planning snapshot generated before ECO board closeout.
+17,MP-016,Motor guard mesh frame,Mounting Hardware,Pre-release Review,No,A,6082-T6 Al,ForgeMax,Accepted,Ready,24/10/2026,136.5,25.6,Master planning snapshot generated before ECO board closeout.
+18,MP-017,Jacking screw pad,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,CNC North,Accepted,Ready,25/10/2026,144.75,27.8,Master planning snapshot generated before ECO board closeout.
+19,MP-018,Pump suction bracket,Base Frame,Ready for Release,Yes,C,EN8,ForgeMax,Accepted,Queue Pending,26/10/2026,153,28.8,Master planning snapshot generated before ECO board closeout.
+20,MP-019,Guard latch strike plate,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,AlloyWorks,Accepted,Ready,27/10/2026,161.25,31,Master planning snapshot generated before ECO board closeout.
+21,MP-020,Spacer pack retaining ring,Spacer Stack,Pre-release Review,No,B,AISI 304,GuardFab,Pending,Ready,28/10/2026,147,33.2,Master planning snapshot generated before ECO board closeout.
+22,MP-021,Access cover hinge boss,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,CNC North,Accepted,Ready,08/10/2026,118,34.2,Tracker frozen before latest authority evidence.
+23,MP-022,Shaft guard rear plate,Mounting Hardware,Ready for Release,Yes,A,6082-T6 Al,ForgeMax,Accepted,Ready,09/10/2026,163.5,36.4,Master planning snapshot generated before ECO board closeout.
+24,MP-023,Pump mounting washer plate,Coupling Guard,Ready for Release,Yes,B,AISI 304,AlloyWorks,Accepted,Ready,27/10/2026,171.75,38.6,Tracker frozen before latest authority evidence.
+25,MP-024,Seal flush tube clamp,Base Frame,Pre-release Review,No,C,EN8,GuardFab,Accepted,Queue Pending,11/10/2026,180,18,Master planning snapshot generated before ECO board closeout.
+26,MP-025,Base frame end cap,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,CNC North,Pending,Ready,12/10/2026,165.75,20.2,Master planning snapshot generated before ECO board closeout.
+27,MP-026,Guard inspection door,Spacer Stack,Ready for Release,Yes,B,AISI 304,ForgeMax,Accepted,Ready,13/10/2026,174,22.4,Master planning snapshot generated before ECO board closeout.
+28,MP-027,Motor riser block,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,AlloyWorks,Accepted,Ready,14/10/2026,150,23.4,Master planning snapshot generated before ECO board closeout.
+29,MP-028,Drive guard front panel,Mounting Hardware,Pre-release Review,No,A,6082-T6 Al,GuardFab,Accepted,Ready,15/10/2026,190.5,25.6,Master planning snapshot generated before ECO board closeout.
+30,MP-029,Coupling spacer sleeve,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,CNC North,Accepted,Ready,,198.75,27.8,Planner left release date blank pending ECO confirmation.
+31,MP-030,Pump foot shim pack,Base Frame,Ready for Release,Yes,C,EN8,ForgeMax,Pending,Queue Pending,17/10/2026,184.5,28.8,Master planning snapshot generated before ECO board closeout.
+32,MP-031,Guard hinge pin boss,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,AlloyWorks,Accepted,Ready,18/10/2026,192.75,31,Master planning snapshot generated before ECO board closeout.
+33,MP-032,Base frame cross brace,Spacer Stack,Pre-release Review,No,B,AISI 304,GuardFab,Accepted,Ready,19/10/2026,201,33.2,Master planning snapshot generated before ECO board closeout.
+34,MP-033,Seal pot bracket,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,CNC North,Accepted,Ready,20/10/2026,209.25,34.2,Master planning snapshot generated before ECO board closeout.
+35,MP-034,Jacking pad backing plate,Mounting Hardware,Ready for Release,Yes,A,6082-T6 Al,ForgeMax,Accepted,Ready,21/10/2026,160,36.4,Master planning snapshot generated before ECO board closeout.
+36,MP-035,Pipe support clevis,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,AlloyWorks,Pending,Ready,22/10/2026,203.25,38.6,Master planning snapshot generated before ECO board closeout.
+37,MP-036,Motor skid stop block,Base Frame,Pre-release Review,No,C,EN8,GuardFab,Accepted,Queue Pending,23/10/2026,211.5,18,Master planning snapshot generated before ECO board closeout.
+38,MP-037,Guard top hat stiffener,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,CNC North,Accepted,Ready,24/10/2026,219.75,20.2,Master planning snapshot generated before ECO board closeout.
+39,MP-038,Coupling guard end plate,Spacer Stack,Ready for Release,Yes,B,AISI 304,ForgeMax,Accepted,Ready,25/10/2026,228,22.4,Master planning snapshot generated before ECO board closeout.
+40,MP-039,Pump discharge brace,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,AlloyWorks,Accepted,Ready,26/10/2026,236.25,23.4,Tracker frozen before latest authority evidence.
+41,MP-040,Spacer locating dowel,Mounting Hardware,Pre-release Review,No,A,6082-T6 Al,GuardFab,Pending,Ready,27/10/2026,222,25.6,Master planning snapshot generated before ECO board closeout.
+42,MP-041,Guard bayonet plate,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,CNC North,Accepted,Ready,28/10/2026,122.5,27.8,Master planning snapshot generated before ECO board closeout.
+43,MP-042,Base frame leveling foot,Base Frame,Ready for Release,Yes,C,EN8,ForgeMax,Accepted,Queue Pending,08/10/2026,238.5,28.8,Master planning snapshot generated before ECO board closeout.
+44,MP-043,Drive coupling shroud,Pump Skid Brackets,Ready for Release,Yes,A,S355JR,AlloyWorks,Accepted,Ready,09/10/2026,246.75,31,Master planning snapshot generated before ECO board closeout.
+45,MP-044,Lift lug doubler plate,Spacer Stack,Ready for Release,Yes,B,AISI 304,GuardFab,Accepted,Ready,10/10/2026,255,33.2,Tracker frozen before latest authority evidence.
+46,MP-045,Pump nameplate bracket,Guard Panels,Ready for Release,Yes,C,42CrMo4 QT,CNC North,Pending,Ready,11/10/2026,240.75,34.2,Master planning snapshot generated before ECO board closeout.
+47,MP-046,Motor cable guard,Mounting Hardware,Ready for Release,Yes,A,6082-T6 Al,ForgeMax,Accepted,Ready,12/10/2026,249,36.4,Master planning snapshot generated before ECO board closeout.
+48,MP-047,Spacer datum ring,Coupling Guard,Ready for Release,Yes,B,17-4PH H1150,AlloyWorks,Accepted,Ready,13/10/2026,257.25,38.6,Tracker frozen before latest authority evidence.
+49,MP-048,Guard lower return plate,Base Frame,Pre-release Review,No,C,EN8,GuardFab,Accepted,Queue Pending,14/10/2026,265.5,18,Master planning snapshot generated before ECO board closeout.

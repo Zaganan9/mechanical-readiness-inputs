@@ -1,0 +1,63 @@
+row_no,quote_id,part_id,supplier,line_type,eco_or_scr_ref,quote_status,amount_usd,cycle_time_delta_min,supplier_baseline_unit_cost_usd,quoted_material_grade,quoted_drawing_revision,quote_date,quote_note
+2,SQ-B-001,MP-001,CNC North,Baseline unit cost,,Controlled baseline,,,80.25,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+3,SQ-B-002,MP-002,ForgeMax,Baseline unit cost,,Controlled baseline,,,88.5,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+4,SQ-B-003,MP-003,CNC North,Baseline unit cost,,Controlled baseline,,,96.75,S355JR,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+5,SQ-B-004,MP-004,GuardFab,Baseline unit cost,,Controlled baseline,,,105,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+6,SQ-B-005,MP-005,CNC North,Baseline unit cost,,Controlled baseline,,,90.75,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+7,SQ-B-006,MP-006,AlloyWorks,Baseline unit cost,,Controlled baseline,,,99,17-4PH H900,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+8,SQ-B-007,MP-007,AlloyWorks,Baseline unit cost,,Controlled baseline,,,107.25,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+9,SQ-B-008,MP-008,GuardFab,Baseline unit cost,,Controlled baseline,,,115.5,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+10,SQ-B-009,MP-009,CNC North,Baseline unit cost,,Controlled baseline,,,123.75,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+11,SQ-B-010,MP-010,GuardFab,Baseline unit cost,,Controlled baseline,,,85.5,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+12,SQ-B-011,MP-011,AlloyWorks,Baseline unit cost,,Controlled baseline,,,117.75,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+13,SQ-B-012,MP-012,GuardFab,Baseline unit cost,,Controlled baseline,,,126,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+14,SQ-B-013,MP-013,CNC North,Baseline unit cost,,Controlled baseline,,,134.25,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+15,SQ-B-014,MP-014,ForgeMax,Baseline unit cost,,Controlled baseline,,,142.5,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+16,SQ-B-015,MP-015,AlloyWorks,Baseline unit cost,,Controlled baseline,,,128.25,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+17,SQ-B-016,MP-016,ForgeMax,Baseline unit cost,,Controlled baseline,,,136.5,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+18,SQ-B-017,MP-017,CNC North,Baseline unit cost,,Controlled baseline,,,144.75,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+19,SQ-B-018,MP-018,ForgeMax,Baseline unit cost,,Controlled baseline,,,153,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+20,SQ-B-019,MP-019,AlloyWorks,Baseline unit cost,,Controlled baseline,,,161.25,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+21,SQ-B-020,MP-020,GuardFab,Baseline unit cost,,Controlled baseline,,,147,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+22,SQ-B-021,MP-021,CNC North,Baseline unit cost,,Controlled baseline,,,124,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+23,SQ-B-022,MP-022,ForgeMax,Baseline unit cost,,Controlled baseline,,,163.5,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+24,SQ-B-023,MP-023,AlloyWorks,Baseline unit cost,,Controlled baseline,,,171.75,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+25,SQ-B-024,MP-024,GuardFab,Baseline unit cost,,Controlled baseline,,,180,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+26,SQ-B-025,MP-025,CNC North,Baseline unit cost,,Controlled baseline,,,165.75,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+27,SQ-B-026,MP-026,ForgeMax,Baseline unit cost,,Controlled baseline,,,174,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+28,SQ-B-027,MP-027,AlloyWorks,Baseline unit cost,,Controlled baseline,,,156,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+29,SQ-B-028,MP-028,GuardFab,Baseline unit cost,,Controlled baseline,,,190.5,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+30,SQ-B-029,MP-029,CNC North,Baseline unit cost,,Controlled baseline,,,198.75,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+31,SQ-B-030,MP-030,ForgeMax,Baseline unit cost,,Controlled baseline,,,184.5,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+32,SQ-B-031,MP-031,AlloyWorks,Baseline unit cost,,Controlled baseline,,,192.75,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+33,SQ-B-032,MP-032,GuardFab,Baseline unit cost,,Controlled baseline,,,201,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+34,SQ-B-033,MP-033,CNC North,Baseline unit cost,,Controlled baseline,,,209.25,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+35,SQ-B-034,MP-034,ForgeMax,Baseline unit cost,,Controlled baseline,,,168,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+36,SQ-B-035,MP-035,AlloyWorks,Baseline unit cost,,Controlled baseline,,,203.25,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+37,SQ-B-036,MP-036,GuardFab,Baseline unit cost,,Controlled baseline,,,211.5,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+38,SQ-B-037,MP-037,CNC North,Baseline unit cost,,Controlled baseline,,,219.75,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+39,SQ-B-038,MP-038,ForgeMax,Baseline unit cost,,Controlled baseline,,,228,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+40,SQ-B-039,MP-039,AlloyWorks,Baseline unit cost,,Controlled baseline,,,236.25,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+41,SQ-B-040,MP-040,GuardFab,Baseline unit cost,,Controlled baseline,,,222,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+42,SQ-B-041,MP-041,CNC North,Baseline unit cost,,Controlled baseline,,,128.5,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+43,SQ-B-042,MP-042,ForgeMax,Baseline unit cost,,Controlled baseline,,,238.5,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+44,SQ-B-043,MP-043,AlloyWorks,Baseline unit cost,,Controlled baseline,,,246.75,S355JR,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+45,SQ-B-044,MP-044,GuardFab,Baseline unit cost,,Controlled baseline,,,255,AISI 304,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+46,SQ-B-045,MP-045,CNC North,Baseline unit cost,,Controlled baseline,,,240.75,42CrMo4 QT,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+47,SQ-B-046,MP-046,ForgeMax,Baseline unit cost,,Controlled baseline,,,249,6082-T6 Al,A,28/09/2026,Supplier-controlled baseline for production cost exposure.
+48,SQ-B-047,MP-047,AlloyWorks,Baseline unit cost,,Controlled baseline,,,257.25,17-4PH H1150,B,28/09/2026,Supplier-controlled baseline for production cost exposure.
+49,SQ-B-048,MP-048,GuardFab,Baseline unit cost,,Controlled baseline,,,265.5,EN8,C,28/09/2026,Supplier-controlled baseline for production cost exposure.
+50,SQ-CR-2005,MP-006,AlloyWorks,Supplier change request,SCR-2005,Pending,10000,1.5,,,,01/10/2026,Supplier quoted material expedite; pending in supplier snapshot.
+51,SQ-CR-2008,MP-009,CNC North,Supplier change request,SCR-2008,Approved,7300,0.8,,,,02/10/2026,Supplier snapshot still shows approved fixture polish claim.
+52,SQ-CR-2011,MP-012,GuardFab,Supplier change request,SCR-2011,Rejected,18600,3.2,,,,02/10/2026,Supplier row not updated after ECO board approval.
+53,SQ-CR-2014,MP-018,AlloyWorks,Supplier change request,SCR-2014,Pending,11250,1.5,,,,03/10/2026,Pending supplier snapshot later signed by ECA.
+54,SQ-CR-2019,MP-022,ForgeMax,Supplier change request,SCR-2019,Approved,14800,2,,,,04/10/2026,Commercial snapshot approved before authority rejection.
+55,SQ-CR-2024,MP-027,ForgeMax,Supplier change request,SCR-2024,Approved,12000,2,,,,05/10/2026,Supplier amount is superseded by signed authority.
+56,SQ-CR-2026,MP-029,CNC North,Supplier change request,SCR-2026,Pending,6500,1,,,,05/10/2026,No signed approval appears in authority file.
+57,SQ-CR-2029,MP-033,GuardFab,Supplier change request,SCR-2029,Approved,9800,0.5,,,,06/10/2026,Supplier snapshot still approved after rejection.
+58,SQ-CR-2030,MP-034,CNC North,Supplier change request,SCR-2030,Pending,17400,4,,,,06/10/2026,Pending supplier snapshot later signed by authority.
+59,SQ-CR-2035,MP-041,CNC North,Supplier change request,SCR-2035,Pending,5200,0.6,,,,07/10/2026,No signed approval appears in authority file.
+60,SQ-CR-X011,MP-011,AlloyWorks,Supplier change request,SCR-X011,Pending,1200,0.2,,,,07/10/2026,Minor pending supplier query without signed approval.
+61,SQ-CR-X026,MP-026,ForgeMax,Supplier change request,SCR-X026,Pending,2600,0.4,,,,07/10/2026,Minor pending supplier query without signed approval.
+62,SQ-CR-X030,MP-030,CNC North,Supplier change request,SCR-X030,Pending,3100,0.4,,,,07/10/2026,Minor pending supplier query without signed approval.
+63,SQ-CR-X046,MP-046,GuardFab,Supplier change request,SCR-X046,Pending,1950,0.3,,,,07/10/2026,Minor pending supplier query without signed approval.
